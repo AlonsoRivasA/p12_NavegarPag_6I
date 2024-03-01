@@ -27,8 +27,9 @@ samples, guidance on mobile development, and a full API reference.
 -https://docs.google.com/document/d/1jTloUy06IgWM7lw4rxjJRm-U0HS4YiTs9KUiXsZLa6U/edit?pli=1
 
 ## Resultado de mi aplicacion:
-![image](https://github.com/AlonsoRivasA/p12_NavegarPag_6I/assets/143743275/80465901-4d18-4fea-9234-222897ff17b7)
-![image](https://github.com/AlonsoRivasA/p12_NavegarPag_6I/assets/143743275/295edea1-852f-493a-abac-4aca40285831)
+![image](https://github.com/AlonsoRivasA/p12_NavegarPag_6I/assets/143743275/177a6d7f-d43d-4c82-843d-5389fa5c475c)
+![image](https://github.com/AlonsoRivasA/p12_NavegarPag_6I/assets/143743275/67973fb8-5d19-4aff-8964-ca440d1fbcf0)
+
 
 
 
